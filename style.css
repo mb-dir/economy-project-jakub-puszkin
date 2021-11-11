@@ -1,0 +1,7 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
